@@ -196,3 +196,6 @@ This repository serves as the official landing page for Hearts of Iron III. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hearts of Iron III today!**
+
+---
+**Last updated:** 2026-11-06 08:55:15 UTC
