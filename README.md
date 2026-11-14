@@ -198,4 +198,4 @@ This repository serves as the official landing page for Hearts of Iron III. The 
 **Get the most recent version of Hearts of Iron III today!**
 
 ---
-**Last updated:** 2026-11-14 11:55:45 UTC
+**Last updated:** 2026-11-14 17:41:26 UTC
